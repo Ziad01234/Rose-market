@@ -1098,15 +1098,7 @@ body {
     justify-content: center;
     
 }
-.copyright-p {
-    color: pink;
-    margin: 0 5px;
-    animation-name: heart;
-    animation-iteration-count: infinite;
-    
-}
 .heart {
-    /* color: pink; */
     margin: 0 5px;
     animation-name: heart;
     animation-iteration-count: infinite;
